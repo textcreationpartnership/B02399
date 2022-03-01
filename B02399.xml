@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bishop Cozens's argument, proving, that adultery works a dissolution of the marriage. Being the substance of several of Bishop Cozens his speeches in the House of Lords, upon the debate of Lord Ross's case. Taken from original papers writ in the Bishop's own hand.</title>
+            <author>Cosin, John, 1594-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02399</idno>
+            <idno type="STC">Wing C6351B</idno>
+            <idno type="STC">ESTC R175839</idno>
+            <idno type="EEBO-CITATION">52211781</idno>
+            <idno type="OCLC">ocm 52211781</idno>
+            <idno type="VID">175613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175613)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bishop Cozens's argument, proving, that adultery works a dissolution of the marriage. Being the substance of several of Bishop Cozens his speeches in the House of Lords, upon the debate of Lord Ross's case. Taken from original papers writ in the Bishop's own hand.</title>
+                  <author>Cosin, John, 1594-1672.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jer. Wilkins, near Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>With: The Duke of Norfolk's case: with reasons for passing his bill.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ross of Hawkhead, William Ross, --  Baron, 1656?-1738 --  Trials, litigation, etc.</term>
+               <term>Norfolk, Henry Howard, --  Duke of, 1655-1701 --  Trials, litigation, etc.</term>
+               <term>Divorce --  Religious aspects --  Church of England --  Early works to 1800.</term>
+               <term>Adultery --  England --  Early works to 1800.</term>
+               <term>Impediments to marriage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175613:1" rendition="simple:additions"/>
+            <head>
+               <hi>Biſhop COZENS's ARGUMENT, PROVING, THAT</hi> Adultery works a Diſſolution of the Marriage.</head>
+            <head type="sub">Being the Subſtance of ſeveral of Biſhop COZENS his Speeches in the Houſe of Lords, upon the Debate of the Lord ROSS'S Caſe.
+Taken from Original Papers writ in the Biſhop's own Hand.</head>
+            <p>THE Queſtion is indefinitely to be ſpoken of, <hi>Whether a Man being divorced from his Wife, who hath committed A<g ref="char:EOLhyphen"/>dultery, and is convicted of it, may Marry himſelf to another Wife or no, during the Life of her which is divorced.</hi>
+            </p>
+            <p>The place in St. <hi>Matthew the</hi> 5th, repeated again St. <hi>Matthew the</hi> 19th, has preat Perſpecuity: If it be not law<g ref="char:EOLhyphen"/>ful for any Man to put away his Wife, and Marry again, except it be in the Caſe of Fornication, (for the diſplacing the Words, by putting the Exception before the Marriage, cannot alter the Senſe) then <hi>a contrario,</hi> it muſt of neceſſity fol<g ref="char:EOLhyphen"/>low, That if the VVife be put away for Fornication, the Husband by the Tenor of Chriſt's VVords is left free to Marry again; which Freedom is not allow'd the Adultreſs her ſelf, nor to any Man elſe that ſhall Marry her.</p>
+            <p>St. <hi>Mark</hi> and S. <hi>Luke</hi> have been oppoſed to S. <hi>Matthew;</hi> and it has been ſaid, that <hi>Chriſt</hi>'s words in S. <hi>Matthew</hi> did not properly belong to <hi>Chriſt</hi>'s <hi>Diſciples,</hi> or the <hi>Chriſtian Church,</hi> as the words in S. <hi>Mark</hi> and S. <hi>Luke,</hi> which are abſolute, do; which is a ſaying that neither I, nor, I think, no body elſe ever heard of before: For <hi>Chriſt</hi>'s Sermon in the Mount was ſpo'ken to <hi>his Diſciples,</hi> and eſpecially belonged to <hi>Chriſtians.</hi>
+            </p>
+            <p>'Tis clear they are ſpoken to <hi>his Diſciples;</hi> for he ſays to them, that they are <hi>the Salt of the Earth, and the Light of the World;</hi> and that they are <hi>bleſſed, when</hi> they <hi>ſuffer perſecution for his Name's ſake;</hi> which no Man will ſay, or apply to the <hi>Jews.</hi>
+            </p>
+            <p>Tis true, that in the 19th <hi>Chapter</hi> of S. <hi>Matthew, Chriſt</hi> anſwers the <hi>Scribes</hi> and <hi>Phariſees,</hi> who came to tempt him with their Queſtion, <hi>Whether it was lawful for a man to put away his Wife for any cauſe,</hi> as they ſaid <hi>Moſes had permitted them to do.</hi> But the Anſwer that <hi>Chriſt</hi> gave them. That it was not lawful, <hi>but only in the caſe of Adultery, for men to put away their Wives, and to marry another,</hi> was a Rule which concerned <hi>all Chriſtians</hi> to obſerve for ever after; and for that reaſon was record<g ref="char:EOLhyphen"/>ed by S. <hi>Matthew.</hi>
+            </p>
+            <p>The words in S. <hi>Mark</hi> and S. <hi>Luke,</hi> are not to be taken abſolutely, but to be ſupplied and underſtood by his words in S. <hi>Matthew;</hi> as in many other Caſes is clear; <hi>viz.</hi> the Thief upon the Croſs, Baptiſm in the Name of the Father, Son and Holy Ghoſt, <hi>&amp;c.</hi> whereof many Inſtances may be brought, as the deſtruction of <hi>Ninivol,</hi> &amp;c.</p>
+            <p>But for <hi>Chriſt</hi>'s words, the Exception confirms the Rule, and infers a Conceſſion, that in the Caſe of <hi>Fornication,</hi> the putting away one VVife. and Marrying another, is allowed. It is alike with divers other his Exceptions, which are ſound in Scripture: For brevity, I will inſtance in this one <hi>(viz.) Except ye repent, ye ſhall all likewiſe periſh:</hi> Upon which Text, if I or any Biſhop elſe were to Preach, I believe we ſhould not diſcharge our Duty, unleſs we ſhould tell the People, That if by the Grace of <hi>God</hi> they did repent, they ſhould not periſh.</p>
+            <p>The Exception here, <gap reason="illegible: missing" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>niſi,</hi> unleſs, is parallel with the 1 <hi>Kings</hi> 3.18. <hi>None were in the houſe, except we twain</hi> they Two therefore were, others were not.</p>
+            <p>Such Exceptions proceeding from natural Equity, are tacitly implied in Laws, tho pronounced in general Terms.</p>
+            <p>But as to the Exception here, the VVords are not capable of any other Senſe than as I have obſerved; for except that Reſtraint be referred to Marrying again, the Senſe would run thus, <hi>Whoſoever puts away his Wife commits Adultery;</hi> which ſtands not with Truth or Reaſon; ſince it is not the Diſmiſſion that is Adulterous, but the Marriage of another. It is, therefore, the plain drift of our Saviour to teach the <hi>Phariſee.</hi> that the Marriage of a Second VVife after a Diſmiſſion of a Former, <hi>upon any other cauſe, except for fornication,</hi> is no leſs than Adultery; thereby inferring, That upon a Juſt Diſmiſſion for Fornication, a ſecond Marriage cannot be branded with Adultery.</p>
+            <p>Beſides, the <hi>Phariſee</hi>'s Queſtion <hi>[Is it lawful for a man to put away his Wife for every cauſe]</hi> was not without a plain impli<g ref="char:EOLhyphen"/>cation of Liberty to Marry another; which <hi>our Saviour</hi> well knowing, gives a full Anſwer, as well to what he meant, as what he ſaid; which had not been perfectly ſatisfactory, if he had only determined that one part concerning Diſmiſſi<g ref="char:EOLhyphen"/>on, and not the other concerning Marriage; which Clauſe, if Two <hi>Evangeliſts</hi> expreſs not, yet it muſt be fetch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d neceſſa<g ref="char:EOLhyphen"/>rily from the Third; ſince it is a ſure and irrefragable Rule, <hi>That all Four Evangeliſts make up one perfect Goſpel.</hi>
+            </p>
+            <p>The <hi>Rhemiſts</hi> and College of <hi>Doway</hi> urge for the <hi>Popiſh</hi> Doctrine, <hi>Rom.</hi> 7.2. <hi>The woman which hath an husband, is bound by the law to her husband as long as he liveth.</hi> But</p>
+            <list>
+               <item>1. This place is to be Expounded by <hi>Chriſt</hi>'s VVords.</item>
+               <item>2. St. <hi>Paul</hi> hath no occaſion here to ſpeak of <hi>Divorce,</hi> but of <hi>Marriage whole and ſound,</hi> as it ſtands by <hi>God</hi>'s Ordinance.</item>
+               <item>3. He ſpeaks of a VVoman who is under an Husband; ſo is not ſhe that is divorced from him.</item>
+               <item>4. St. <hi>Paul</hi> uſeth this to his purpoſe of the Law being dead, to which we are not bound.</item>
+            </list>
+            <p>Nor is their Doctrine more favoured by 1 <hi>Cor.</hi> 7.10. <hi>Let not the woman depart;</hi> as being in her Choice whether ſhe would depart or not: But in the Caſe of <hi>Fornication,</hi> ſhe was to depart, or rather be <hi>put away,</hi> whether ſhe would or not.</p>
+            <p>The Bond of the Marriage is to be en<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ired into, what improperly is. Being a Conjugal Promiſe Solemnly made be<g ref="char:EOLhyphen"/>tween a Man and his VVife, That each of them will live together according to <hi>God</hi>'s Holy Ordinance, notwithſtanding Poverty or Infirmity, or ſuch other things as may happen during their Lives. Separation from Bed and Board, which is part of their Promiſe ſo to live together, doth plainly break that part of the Bond whereby they are tied to live together both as to Bed and Board: The diſtinction betwixt Bed and Board and the Bond, is new, never mentioned in the Scrip<g ref="char:EOLhyphen"/>ture, and unknown in the Ancient Church, deviſed only by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Canoniſts</hi> and the <hi>School-men</hi> in the <hi>Latin Church</hi> (for the <hi>Greek Church</hi> knows it not) to ſerve the <hi>Pope</hi>'s turn the better, till he got it eſtabliſhed in the <hi>Council of Trent;</hi> at which time, and never before, he laid his <hi>Anathema</hi> upon all them that were of another Mind; forbidding all Men to Marry and <hi>not to make any uſe of Chriſt's Conceſſion.</hi>
+            </p>
+            <p>Bed and Board, or Cohabitation, belong to the Eſſence and Subſtance of Matrimony; which made <hi>Eraſmus</hi> and Biſhop <hi>Hall</hi> ſay, <hi>That the diſtinction of thoſe two from the Bond, is merely Chimerical, and Fancy.</hi>
+            </p>
+            <p>The promiſe of Conſtancy and mutual Forbearance, if it hinders Divorce as to the <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</hi> hinders it alſo as to Bed and Board; beauſe the ſame Bed, and the ſame Table were promiſed in the Marriage Contract; but the Promiſe does not extend even to Tolerating <hi>Adultery,</hi> or <hi>Malicious Diſertion;</hi> which, according to <hi>God's Ordinance, Diſſolves the Marriage.</hi>
+            </p>
+            <p>
+               <hi>Our Saviour</hi> ſpeaks of Divorces Inſtituted by the <hi>Moſaical Law;</hi> but they were no other than Divorces from the <hi>Bond.</hi>
+            </p>
+            <p>The Form of the <hi>Bill of Divorce,</hi> among the <hi>Jews</hi> was this, <hi>Be Expelled from me, and free for any Body elſe</hi> To give the Bill of Divorce, is from the <hi>Hebrew</hi> Root <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is to break, or cut off the Marriage. With this agree the Ancient <hi>Canons, Councils,</hi> and <hi>Fathers</hi> of the Church.</p>
+            <p>
+               <hi>Concil, N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>caeſar. &amp; Elib.</hi> forbid the retaining an Adulterous Wife. <hi>Concil. Eliber. Aurelian. &amp; Arelatens.</hi> give Liberty, in ſuch Caſe to Marry again. <hi>Clement</hi>'s Conſtitution, <hi>Tertullian,</hi> St. <hi>Baſil</hi> in his Canons, approved by a General Council
+<pb facs="tcp:175613:2" rendition="simple:additions"/>are for Marrying again. <hi>Concil Venet.</hi> If they Marry in any other Caſe than Fornication, they are to be <hi>Excommunicated,</hi> and not otherwiſe. <hi>Concil Wormat.</hi> gives Liberty to the Innocent Party to Marry after a Divorce. <hi>Concil Lateran.</hi> gives leave for the Innocent Party after a Year to Marry again.</p>
+            <p>
+               <hi>Concil. Lateran.</hi> If any one take another Wife while a Suit is depending, and afterwards there be a Divorce between him and the Firſt, he may remain with the Second.</p>
+            <p>
+               <hi>Lacta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tius,</hi> S. <hi>Hierom</hi> and <hi>Epiphanius,</hi> are for allowance of Marriage after Divorce. <hi>Chryſoſtom, H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 19. 1 <hi>Cor.</hi> 7. ſays, That <hi>the Marriage is diſſolved by Adultery; and that the Husband, after he hath put her away, is no longer her Husband.</hi>
+            </p>
+            <p>
+               <hi>Theophylact</hi> on the 16th. of St. <hi>Luke,</hi> ſays, That St. <hi>Luke</hi> muſt be interpreted by S. <hi>Matthew.</hi> S. <hi>Hillary</hi> is for marrying again, as Dr. <hi>Fulk</hi> ſaith upon S. <hi>Matthew</hi> the V. The <hi>Eaſtern</hi> Biſhops, in the <hi>Council of Florence,</hi> are for marrying again. <hi>Juſtin Martyr</hi> ſpeaks of a Chriſtian Woman's giving a bill of Divorce to a Diſſolute Husband, without finding any fault with it.</p>
+            <p>St. <hi>Ambreſe</hi> ſays, a Man may Marry again, if he put away an Adulterous Wife; <hi>Theodoret</hi> ſaid of a Wife who violated the Laws of Marriage: <hi>Therefore our Lord requires the Bond or Tye of Marriage to be diſſolved.</hi>
+            </p>
+            <p>All the <hi>Greek Church</hi> to this day allow it. <hi>Eraſmus, Cajetan,</hi> and other Papiſts: The Civil Law, and the Laws of the Em<g ref="char:EOLhyphen"/>peror, are clear for it: And the Conſtitutions of our own Church of <hi>England,</hi> in the time of <hi>H.</hi> 8. <hi>E.</hi> 6. and Queen <hi>Eliz.</hi>
+            </p>
+            <p>The Practice of the <hi>Engliſh</hi> Church: In the Stat. 1 <hi>Jac. c.</hi> 11. againſt ſecond Marriages, Divorces are excepted; and in <hi>Canon</hi> 107. 'tis provided they ſhall not Marry again; but it is not ſaid ſuch Marriages are void, only the Caution is forfeited: <hi>Nei<g ref="char:EOLhyphen"/>ther doth the Canon ſpeak of ſuch Separations, wherein the the Bond it ſelf is broken, as 'tis by Fornication.</hi>
+            </p>
+            <p>Even the <hi>Canon-Law</hi> allows Marrying again, in caſe a Woman ſeek her Husband's Life: and in caſe of a Bond-woman. <hi>Gra<g ref="char:EOLhyphen"/>tian</hi> ſays, in the Caſe of Adultery Lawful Marriages ought not to be denied. In the Caſe of an Incurable Leproſie, it was the Advice of S. <hi>Gregory</hi> to <hi>Auſtin</hi> the Monk, That he that could not contain, ſhould rather Marry. <hi>Bellermin</hi> owns that the Bond of the Marriage of Infidels is diſſolvable; but the Marriage of the Faithful, and of Infidels, is of the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me nature; And <hi>Juſtinian,</hi> a Jeſuit, confeſſes, that it is ſimply lawful for the Innocent Party to Marry again. And the <hi>Roman</hi> Doctors allow a diſſolution of the Bond of Marriage, if the Parties ſhould, after conſumation, transfer themſelves into a Friery or Nunnery.</p>
+            <p>The <hi>Canons</hi> which in the caſe of Adultery prohibit Marrying in the Life time of the guilty Perſon, are contrary to Two Acts of Parliament made 25 <hi>H.</hi> 8. and 3 <hi>&amp;</hi> 4 <hi>E.</hi> 6. wherein no <hi>Canons</hi> are allowed that be any way <hi>re<g ref="char:EOLhyphen"/>pugnant to the Laws of God,</hi>
+               <note place="margin">Ref. Leg. Eccleſ. Tir. de Adulteriis &amp; Di<g ref="char:EOLhyphen"/>vortiis.</note> 
+               <hi>or the Scripture, the King's Prerogative Royal, and the Statutes of this Land.</hi> 32 Perſons were to review the <hi>Canon-Law,</hi> in which Review, drawn up by <hi>Archbiſhop Cranmer,</hi> the Inno<g ref="char:EOLhyphen"/>cent Perſon i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> permitted to Marry again, <hi>according to Chriſt's Law and Conceſſion.</hi>
+            </p>
+            <p>We have Examples of ſuch Marriages in <hi>H.</hi> 4. of <hi>France, H.</hi> 8. of <hi>England,</hi> Lord <hi>Mountjoy,</hi> Lord <hi>Rich,</hi> Biſhop <hi>Thornborough,</hi> and divers others. And it is obſervable, That in the Caſe of the <hi>Marqueſs of Northampton,</hi> 5 <hi>E.</hi> 6. who had been divorced for his Lady's Adultery, and Married another before any Act of Parliament made concerning it, an Act which paſſed afterwards (only two Spiritual, and two Temporal Lords diſſenting) declares he had been <hi>at liberty by the Laws of God to Marry,</hi> and did <hi>Lawfully Marry</hi> another; Where the Act manifeſtly ſuppoſes, that whatever had obtained for Law till that time, was void, as being <hi>contrary to God's Law.</hi>
+            </p>
+            <p>The moſt conſiderable Men of the Reform'd Churches both at home and abroad, are of this Opinion: <hi>Grotius</hi> quotes <hi>Ter<g ref="char:EOLhyphen"/>tullian,</hi> in whoſe time it was Lawful for the Innocent Party to Marry.</p>
+            <p>
+               <hi>Lancelot Inſt. Jur. Can,</hi> acknowledges that Divorce is a diſſolution of the Marriage.</p>
+            <p>
+               <hi>Selden,</hi> who is not likely to contradict the Laws of this Kingdom, maintaineth, That Marriage after Divorce is to be allow<g ref="char:EOLhyphen"/>ed: And in that particular, Dr. <hi>Hammond</hi> doth not contradict him, but is clearly for it.</p>
+            <p>The Opinion of <hi>Am<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſius</hi> deſerves to be ſet down at large: <hi>Marriage,</hi> ſays he, <hi>cannot be diſſolved by Men at their plea<g ref="char:EOLhyphen"/>ſure; and for that reaſon, as it is conſidered ſimply and abſolutely, it is rightly ſaid to be indiſſolvable; becauſe Marriage is not only a Civil, but a Divine Conjunction; and is alſo of that nature, that it cannot be diſſolved without detriment to either Party, Yet it is not ſo indiſſolvable, but it may be diſſolved for a Cauſe which God approves as juſt; for the Indiſſolvability was not in: ſ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ted for a Puniſhment, but for the Comfort of Innocent Perſons; and it admits an Exception, wherein God ceaſes to conjoyn. By Adultery two are made not to remain one Fleſh: hence it is, that a Contagious Diſeaſe is not a Cauſe of diſſolving Marriage.</hi> By Adultery the very Eſſence of the Contract is directly violated; but the Contract ceaſing, the Bond depending on the Contract neceſſarily ceaſes. <hi>It is againſt all reaſon, that all Matrimonial Duties ſhould be for ever taken away, yet the Bond or Obligation to thoſe Duties ſhould continue. The words of</hi> our Lord, Matth. 5.32. <hi>and</hi> 19.9. <hi>have no diſtinction or limita<g ref="char:EOLhyphen"/>tion of the putting away, but ſimply and abſolutely approve of putting away; therefore they approve of a putting away, not par<g ref="char:EOLhyphen"/>tial, or to a particular purpoſe, from Bed and Board, but</hi> Total.</p>
+            <p>None are againſt the R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmed Divines, but <hi>Dr. Howſon, Mr. Bunny,</hi> and <hi>Dr. Prideaux.</hi>
+            </p>
+            <p>
+               <hi>Dr. Howſon</hi> was a profeſſed Adverſary to <hi>Dr. Raynolds</hi> who was a great Maintainer of the Church of <hi>England</hi> againſt all the Points of Popery, and particularly in this.</p>
+            <p>
+               <hi>Dr. Taylor,</hi> Biſhop <hi>Hell, Dr. F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lk,</hi> are for Second Marriages; no Authors againſt them but the <hi>Council of Trent,</hi> and thoſe of the <hi>Church of Rome;</hi> whoſe Credit is only ſaved by thoſe of our Church who agree with them.</p>
+            <p>Upon the difference of Explication between S. <hi>Ambroſe, Origen,</hi> and S. <hi>Auſtin,</hi> a new kind of Divorce has been thought of <hi>from Bed and Board;</hi> but this <hi>Divorce,</hi> or <hi>Name of a Divorce,</hi> was unknown to the <hi>Jews</hi> and <hi>Ancient Chriſtians.</hi>
+            </p>
+            <div type="objections">
+               <p>I ſaid ſo much before, at the Firſt and Second reading of this Bill, that I was in good hopes to have had no further occaſion, given me of anſwering any Objections againſt it now; but ſeeing divers new Arguments have been ſtudied and framed againſt it ſince that time, I ſhall now endeavour to ſatisfie and clear them all.</p>
+               <p n="1">1. The Firſt Argument againſt it, is, That the Separation from Bed and Board doth not diſſolve the Bond of Marriage. To which I muſt Reply, as I did before, That this is a diſtinction without a difference; newly invented by the <hi>Canoniſts</hi> and <hi>School men,</hi> and never heard of either in the <hi>Old</hi> or <hi>New Teſtament,</hi> nor in the times of the Antient Fathers, who accounted the Separa<g ref="char:EOLunhyphen"/>tion from Bed and Board, to be the Diſſolution of the Bond it ſelf.</p>
+               <p n="2">2. That firſt Inſtitution of Marriage, that they may be <hi>one Fleſh,</hi> is by Adultery diſſolved, when the Adultreſs makes herſelf <hi>one Fleſh with</hi> another Man; and <hi>thereby diſſolves the firſt Bond of her Marriage.</hi>
+               </p>
+               <p n="3">3. The Objection, that if the Bond be diſſolved, and afterwards, if the Man or Woman be reconciled, they muſt be Mar<g ref="char:EOLhyphen"/>ried over again, is no neceſſary Conſequence, no more than 'tis in a Perſon baptized, who may break his Covenant, and re<g ref="char:EOLhyphen"/>nounce his Baptiſm; and yet upon true Repentance be received into God's Favour by virtue of the firſt Covenant, without any new Baptiſm. Suppoſe a Witch, who they ſay makes a Compact with the Devil, to renounce her Baptiſm; ſhould after<g ref="char:EOLhyphen"/>wards, by the Grace of God, ſeriouſly and truly Repent her ſelf of the Wickedneſs; I do not believe that any body would take upon him to Baptize her again: and if a Prieſt ſhould renounce his Orders, and turn <hi>Turk,</hi> and yet afterwards repent him, and return into the Church: he need not be Re-ordained a ſecond time. The Caſe will be the ſame in Marriage.</p>
+               <p n="4">4. I ſaid heretofore, That the <hi>Roman</hi> Doctors allowed this Diſſolution of the Bond, when the Man and Wife, even after the Conſumation of Marriage, would transfer themſelves into a Friary, or a Nunnery: but becauſe it hath been ſince doubted, that no Authority can be ſhewed for this particular, I ſhall here ſhew it out of the old Conſtitutions of the Church of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>And in the Caſe of Religion,</hi>
+                  <note place="margin">Prov. Will. Lindewode, ſive Conſt. ng. fol. 94. Ver: nul. latenus Sepa<g ref="char:EOLhyphen"/>rentur.</note> 
+                  <hi>that is the true underſtanding, that to wit, either of them betaking themſelves to Religion before Carnal Knowledge, the Bond of the Marriage be diſſolved: but</hi> it both enter into Religion, and make ſolemn Profeſſion, then ſuch Marriage is diſſolved, even as to the Bond.</p>
+               <p n="5">5. It hath alſo been ſaid, that if the Bill paſs, it will paſs againſt the <hi>Church of England:</hi> which I confeſs, I do not un<g ref="char:EOLhyphen"/>derſtand: For <hi>the Church of</hi> England <hi>is within the Kingdom of</hi> England; and if the Laws of this Kingdome be for the Bill and have declared it by the Aſſent of the King, Lords, and Commons, as in the Caſe of the <hi>Marquis</hi> of <hi>Northampton,</hi> was <hi>heretofore declared in the time of King</hi> Edward <hi>the</hi> 6th. <hi>That by the Laws of God the Innocent Party was at liberty to Marry again;</hi> Certainly the <hi>Spiritual Lords,</hi> as well as the <hi>Temporal</hi> and <hi>Commons,</hi> are bound to admit it: and <hi>I know not why they ſhould be called the Church of</hi> England, <hi>that joyn with the Council of</hi> Trent, <hi>and plead ſo much to uphold it; rather than others that join with all the Reformed Churches, and plead againſt that Canon of the Church of</hi> Rome, <hi>which hath laid an Ana<g ref="char:EOLhyphen"/>thema upon us, if we do not agree with them.</hi>
+               </p>
+               <p>As to the ſuppoſed Inconveniencies that will follow upon Marrying again.</p>
+               <list>
+                  <item>1. More Inconveniences will follow if they be forbidden to Marry again.</item>
+                  <item>2. The Father would be in an uncertainty of the Children, if he ſhould retain the Adultereſs.</item>
+                  <item>3. There would be danger of Poyſoning, or killing one another, if no Second Marriage were allowed.</item>
+                  <item>4. Where the Parties ſhould conſent to new Marriages for their own Luſts, the Magiſtrates have Power to over-rule ſuch Practices.</item>
+                  <item>5. If they be kept altogether by Divorce from Marrying, it would occaſion the Innocent Party to Sin.</item>
+               </list>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:175613:2" rendition="simple:additions"/>
+            <head>THE Duke of Norfolk's Caſe: WITH REASONS for Paſſing his BILL.</head>
+            <p>IF want either of Precedent for a <hi>Parliamentary Divorce,</hi> before going through the tedious and in<g ref="char:EOLhyphen"/>effectual Methods of <hi>Doctors Commons,</hi> or of Demonſtration of Fact. have hitherto deprived the <hi>Duke of Norfolk</hi> of that Relief againſt his Wives Adultery, which the <hi>Divine Law</hi> allows; The late Statute made in the like Caſe and the Coming in of Two, who while the <hi>Duke</hi>'s former Bill was depending, had been ſent away to prevent that Diſcovery which they now make: cannot but be thought to remove all Objections againſt an Act of Parliament, not only for the benefit of the <hi>Duke,</hi> but of the <hi>Publick;</hi> as a means to preſerve the Inheritance of ſo great an Office, and Honours to Per<g ref="char:EOLhyphen"/>ſons of the true Religion.</p>
+            <p>And ſince <hi>Biſhop Cozens</hi> his Argument in the Lord <hi>Roſs</hi>'s Caſe has made it Evident, That thoſe Ca<g ref="char:EOLhyphen"/>nons which govern the <hi>Spiritual Court</hi> in this matter, are but the remains of Popery; nothing can be now requiſite to ſatifie the moſt ſcrupulous of the <hi>Reformed Religion,</hi> but to ſet the Duke's Proofs of his Lady's Adultery in a true Light</p>
+            <p>The Reputation which the Dutcheſs had maintained, of Wit and Diſcretion made it difficult for many to believe, that ſhe could be ſurprized in the very Act of Adultery, as had been formerly prov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. And though then it appeared, that one <hi>Henry Keemer</hi> lived with the Dutcheſs, while ſhe went by a feigned Name at an Houſe hired for her at <hi>Fox-Hall,</hi> by Sr <hi>John Germain</hi>'s Brother: and that <hi>Nicola,</hi> who then lived with Sir <hi>John,</hi> uſed to receive <hi>Wood</hi> ſent from the Dutcheſ to Sir <hi>John</hi>'s houſe by the Cock<g ref="char:EOLhyphen"/>pit; the withdrawing of <hi>Nicola,</hi> and carrying with him the <hi>Dutch</hi> Maid, equally Entruſted with the ſecret on Sir <hi>Johns</hi> ſide left no Evidence of their Conſtant Converſation, but <hi>Keemer</hi> ſince dead, and <hi>Suſannah Barrington,</hi> who had the like Truſt from the Dutcheſs</p>
+            <p>
+               <hi>Keemer,</hi> though very unwillingly, ſome years ſince confeſſed his living with the Dutcheſs at <hi>Fox-hall,</hi> where he pretended ſhe was obliged to conceal her ſelf for Debt, and what ſhare <hi>Suſannah</hi> had in the ſe<g ref="char:EOLhyphen"/>cret was unknovn, till <hi>Nicola</hi> appeared: <hi>Nicola</hi> coming into <hi>England</hi> ſometime ſince in Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectation of a Service, expreſs'd his readineſs to diſcover what he knew, and to Endeavour to bring with him the <hi>Dutch</hi> Maid.</p>
+            <p>She proves, That for two Months the firſt Summer after the King came for <hi>England,</hi> Sir <hi>John German</hi> and the Dutcheſs lived together <hi>as Man and Wife</hi> and were ſeen in Bed together by her, Mr. <hi>Bryan,</hi> and his VVife, Sir <hi>John</hi>'s Siſter: and that <hi>Nicholas Hauſeur,</hi>
+               <note place="margin">
+                  <hi>Eleanor Vaneſs</hi> Exam. 22. <hi>Feb.</hi> 1699.</note> Sir <hi>John</hi>'s <hi>Valet de Chambre,</hi> uſed to be aſſiſting to him; as the <hi>Dutcheſs</hi>'s <hi>Woman, Suſannah Barrington,</hi> was to her, at going to Bed, and riſing.</p>
+            <p>She proves the like Converſation at <hi>Fox-hall,</hi> and the Dutcheſs's <hi>Houſe</hi> at the <hi>Millbank,</hi> till the Duke's firſt Bill for a Divorce was depending; within which time <hi>Nicholas Hauſeur.</hi> by Sir <hi>John</hi>'s Order, carry<g ref="char:EOLhyphen"/>ed her away, and <hi>Suſannah Barrington,</hi> with intention of going for <hi>Holland,</hi> to prevent their being Exa<g ref="char:EOLhyphen"/>mined to what they knew; but the wind proving contrary, they could n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t go till the Bill was rejected; and then Sir <hi>John</hi> fetch'd back <hi>Suſannah,</hi> who was moſt uſeful to the Dutcheſs; but <hi>Hauſeur</hi> went for <hi>Holland</hi> with <hi>Ellen.</hi>
+            </p>
+            <p>He confirms <hi>Ellen</hi>'s Evidence in every particular; and beſides the Perſons mention'd by <hi>Ellen</hi> as privy to Sir <hi>John</hi>'s lying with the Dutcheſs, names Sir <hi>John</hi>'s Brother <hi>Daniel. Nicholas</hi> having been found very truſty, his Maſter ſent for him to return to his Service;<note place="margin">Nicholas Hauſeur.</note> and gave him the opportunity of proving the Continuance of the ſame Adulterous Converſation at ſe<g ref="char:EOLhyphen"/>veral Times and Places, from the Summer 1692. to the 26th. of <hi>April</hi> 1696 He ſwears he had after his return to Sir <hi>John</hi>'s Service, ſeen them in Bed together at Sir <hi>John</hi>'s Houſe, at the <hi>Cockpit</hi> and at the Dutcheſs's Houſes at <hi>Mil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bank,</hi> and where ſhe now lives; and uſed to be let into the Dutcheſs's Apart<g ref="char:EOLhyphen"/>ment by <hi>Suſannah Barrington,</hi> or <hi>Keemer</hi> Nor can any Man who ſhall read the ample Teſtimonials gi<g ref="char:EOLhyphen"/>ven Mr. <hi>Hauſeur</hi> by Sir <hi>John;</hi> by the laſt of which it appears that he ſerved him faithfully as his Stew<g ref="char:EOLhyphen"/>ard, reaſonable queſtion <hi>Hauſeur</hi>'s Credit.</p>
+            <p>Another who had been advanced by Sir <hi>John</hi> from his Footman to Mr. <hi>Hauſeur</hi>'s place, <hi>William Bayl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> and from thence to a good Office in the Exciſe, very unwillingly confirmed the Teſtimo<g ref="char:EOLhyphen"/>ny of <hi>Hauſer</hi> and the <hi>Dutch Maid,</hi> not only as to the time of their going from the Service of Sir <hi>John</hi> and the Dutcheſs, but though being no Foreigner, he could not ſo eaſily be ſent away to prevent diſco<g ref="char:EOLhyphen"/>very, and therefore was not let ſo far into the ſecret as <hi>Hauſeur</hi> and the <hi>Dutch Maid;</hi> yet he ſwears the Dutcheſs uſed to come mask'd to his Maſter's Houſe, that he has gone with him as far as the <hi>Horſe<g ref="char:EOLhyphen"/>ferry</hi> towards her Houſe at the <hi>Mill-bank;</hi> that then his Maſter ſometimes <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tay out all Night,</hi> and the next morning he has <hi>carri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Linnen and Cloaths</hi> for his <hi>Maſter</hi> to <hi>Keemer</hi>'s Houſe, or <hi>Keemer</hi> has fetch'd them from him: And this he proves to have been ſince the rejecting the former Bill, and about Five Years ſince, when he was ſucceeded by <hi>Hauſeur,</hi> as before he had ſucceeded <hi>Hauſeur</hi>
+            </p>
+            <p>Two other Foreigners, <hi>La Fountain,</hi> who had lived with Sir <hi>John.</hi> and was Served with Summons at the <hi>Dutcheſs</hi>'s Houſe at <hi>Dra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton;</hi> and <hi>Hugonee,</hi> who ran away from the <hi>Lord Haverſham</hi>'s ſince Summons was taken out againſt him; ſeem to have had the ſame Truſt that <hi>Hauſeur</hi> had: for both declared. That nothing ſhould oblige them to <hi>betray their Maſter's Secrets:</hi> One ſaid, <hi>No Court could diſpenſe with his Oath of Secrecy:</hi> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth declared they would immediately go beyond Sea. Summons have been taken out for Mr. <hi>Brian</hi> and his VVife, and Sir <hi>John German</hi>'s Brother (who are, or lately were in Town) to confeſs
+<pb facs="tcp:175613:3"/>or deny what <hi>Nichola</hi> and <hi>Ellen</hi> appeal to them for: and it cannot be imagined that Sir <hi>John</hi> ſhould chuſe theHonour of being thought to have to do with a <hi>Dutcheſs,</hi> before the Clearing her and himſelf from the Imputation, by bringing his Relations to diſprove the Charge, if what is ſworn to be within their know<g ref="char:EOLhyphen"/>ledge is falſe.</p>
+            <p>And if Sir <hi>John</hi>'s Vanity ſhould prevail with him, at leaſt it is to be preſumed, that his Re<g ref="char:EOLhyphen"/>lations would be more juſt to him and the Lady, than to ſuffer any thing to paſs againſt them, which they could with Truth and Juſtice prevent.</p>
+            <p>But ſince none of them appear, the World will believe their abſenting more than a thouſand Witneſſes, in confirmation of what Mr. <hi>Hauſeur, Ellen</hi> and <hi>Bayly,</hi> have ſworn. Whoſe Evidence not only ſtands untouch'd by any thing offered by the <hi>Dutcheſs</hi>'s Witneſſes, but is plainly con<g ref="char:EOLhyphen"/>firmed by them in the principal parts.</p>
+            <div type="part">
+               <p>This being the nature of the proofs, 'tis obſervable,</p>
+               <p n="1">1. That there never yet was any Caſe of this kind, where the Evidence was not liable to greater Objections than can be made to this.</p>
+               <p>Though in the lateſt Caſe of this kind, there was full Conviction of the Ladies having Chil<g ref="char:EOLhyphen"/>dren while ſhe lived ſeparate from her Husband; and the preſumption was very violent whoſe the Children were; yet this was but preſumption, and that was weakned by the preſumption in Law that they were the Husbands; eſpecially ſince there was no direct proof of the Lover's ever lying with her.</p>
+               <p n="2">2. Tho in that caſe, by reaſon of the interval of Parliament, and fear of the deaths of Wit<g ref="char:EOLhyphen"/>neſſes, a Suit was begun in <hi>Doctors Commons,</hi> 'twas taken from thence while the Suit was depend<g ref="char:EOLhyphen"/>ing; therefore that was rather an Objection againſt procceding in Parliament than an Argument for it.</p>
+               <p n="3">3 In that Caſe, ſeveral Witneſſes were examined at the Bars of both Houſes, who had not been examined at <hi>Doctors Commons,</hi> nor any notice given of their Names before their Examination.</p>
+               <p n="4">4. It appears by that Caſe, and the preſent, that the Examinations in Parliament are more ſolemn and certain than thoſe of the Spiritual Court; which depend too much upon the Honeſty of the Regiſter, or his Deputy.</p>
+               <p n="5">5. Before that Caſe, Parliaments have either broken through the Rules which bind the Spiritual Court, as in the Caſe of the Duke of <hi>Norfolk,</hi>
+                  <note place="margin">
+                     <hi>1</hi> Eliz n. <hi>31.</hi>
+                  </note> 1 <hi>Eliz.</hi> where the Parliament ratified a Marriage, <hi>as lawful according to God's Law; tho protracted and letted, by reaſon of certain Decrees and Canons of the Popes Law;</hi> or elſe have diſſolved a Mar<g ref="char:EOLhyphen"/>riage where there had been no application to <hi>Doctors Commons,</hi> as in the Caſe of Mrs. <hi>Wharton,</hi>
+                  <note place="margin">2. <hi>&amp;</hi> 3. <hi>W. M.</hi>
+                  </note> who has been married to Mr. <hi>Cambel;</hi> and yet there had been no Examination of Witneſſes, but what had been before the two Houſes.</p>
+               <p>So long before, in the Caſe of Sir <hi>Ralph Sadler,</hi> upon proof before the two Houſes that the Lady <hi>Sadlers</hi> former Husband had deſerted her and diſappeared for Four Years before ſhe Marryed Sir <hi>Ralph,</hi>
+                  <note place="margin">37. <hi>H</hi> 8:</note> the Parliament Legitimated her Children by Sir <hi>Ralph.</hi>
+               </p>
+               <p>WHereas ſome Object againſt the Paſſing the Bill, as if it would countenance a Juriſdiction in the Houſe of Lords to examine to ſuch matters, in the firſt Inſtance or Originally; the Ob<g ref="char:EOLhyphen"/>jection would be the ſame if it had begun, as it might, in the Houſe of Commons; but in truth would be of equal force againſt moſt private and ſeveral publick Acts, occaſioned by the exa<g ref="char:EOLhyphen"/>mination of Witneſſes, or Notoriety of Fact.</p>
+               <p>Since therefore the Duke has ſo long, and ſo often in vain endeavoured to be freed from a Lady, publickly famed and proved to have lived with Sir <hi>John Germain,</hi> as his Wife; the Duke's former diſappointments cannot but be powerful Arguments for his ſpeedy obtaining that Juſtice which the Spiritual Court cannot give him; their Power reaching no further than to that liberty of living as <hi>ſhe liſt;</hi> ſome years ſince ſetled by Articles: But as none of leſs Art and Oratory than her Counſel could have turned this into a Licenſe to commit Adultery, <hi>if ſhe Liſt,</hi> or a Pardon afterwards; had there not been evidence of her Acting according to ſuch Con<g ref="char:EOLhyphen"/>ſtruction, the Duke would have hoped ſhe had repented of the former Injuries he had received from her; but now hopes ſhe ſhall not longer continue to bear the Name of his Wife, and put him in danger of being ſucceeded by Sir <hi>John Germain</hi>'s Iſſue, or deprive him of the ex<g ref="char:EOLhyphen"/>pectation of leaving his <hi>Honours, Offices,</hi> and <hi>Eſtate,</hi> to a <hi>Proteſtant Heir.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>BY Vertue of an Order, Obtain'd from His Grace the <hi>Duke</hi> of <hi>Norfolk, Earle Marſhal</hi> of <hi>England: Jeremiah Wil<g ref="char:EOLhyphen"/>kins,</hi> is hereby Authoriz'd to Print, and Publiſh His Caſe, and that no other do preſume to Print, or Publiſh the ſame.</p>
+            <p>
+               <hi>By His Grace the</hi> Duke <hi>of</hi> Norfolk<hi>'s Special Command.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Jer. Wilkins,</hi> near <hi>Fleet-ſtreet,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
